@@ -32,7 +32,7 @@ header {
     padding-right: 2rem;
     width: 100%;
     margin: 0;
-    background-color: black;
+    background-color: linear-gradient(135deg, #0d0d0d, #1a1a1a);
     filter: drop-shadow(10px);
     display: flex;
     justify-content: space-between;
@@ -301,4 +301,5 @@ span {
         width: 70vw;
         margin-top: 4rem;
     }
+
 }
