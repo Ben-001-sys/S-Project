@@ -19,7 +19,7 @@ body {
     height: 100vh;
     margin: 0;
     overflow-x: hidden;
-    background-color: background: linear-gradient(135deg, #0a0014, #1a001f);
+    background-color: red;
     color: white;
 }
 
@@ -303,4 +303,5 @@ span {
     }
 
 }
+
 
