@@ -19,10 +19,9 @@ body {
     height: 100vh;
     margin: 0;
     overflow-x: hidden;
-    background-color: red;
+    background: linear-gradient(135deg, #020617, #0f172a);
     color: white;
 }
-
 
 header {
     margin-top: 20px;
@@ -32,7 +31,7 @@ header {
     padding-right: 2rem;
     width: 100%;
     margin: 0;
-    background-color: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+    background-: linear-gradient(135deg, #0d0d0d, #1a1a1a);
     filter: drop-shadow(10px);
     display: flex;
     justify-content: space-between;
@@ -132,7 +131,7 @@ section {
     justify-content: center;
     align-items: center;
     gap: 8rem;
-    background-color: black;
+    background: linear-gradient(135deg, #020617, #0f172a);
 }
 
 .home .home-content h1 {
@@ -303,4 +302,5 @@ span {
     }
 
 }
+
 
